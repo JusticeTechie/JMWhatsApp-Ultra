@@ -1,14 +1,18 @@
 {
-  "versionCode": 589632874,
-  "versionName": "2.24.8.86",
+  "versionCode": 2147483647,
+  "versionName": "2.24.9.79",
   "Msg": "New update is available, to continue in our app please update it.
 
 What's new:
+- Fixed Logout Problem In Link Device.
+- Fixed crash problem when linking.
+- Fixed crash problem when installing. 
 - Performance Improvements.
 - Bug Fixes.
 - New Features introduced.
 - Others minor changes.
+- Note• Some features are removed will be added in next update.
 
-Thanks for using",
+Thanks for using JMWhatsApp",
   "downloadLink": "http://www.youtube.com/@JusticeTech"
   }
