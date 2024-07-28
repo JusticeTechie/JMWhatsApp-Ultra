@@ -1,12 +1,15 @@
 {
   "versionCode": 2147483647,
-  "versionName": "2.24.9.78",
+  "versionName": "2.24.11.79",
   "Msg": "New update is available, to continue in our app please update it.
 
 What's new:
 - Fixed Logout Problem In Link Device.
+- Fixed Link Companion Device in some devices.
+- Unlock all features in Linked Devices.
 - Fixed crash problem when linking.
-- Fixed crash problem when installing. 
+- Fixed crash problem when installing.
+- Audio to Voice Note.
 - Performance Improvements.
 - Bug Fixes.
 - New Features introduced.
@@ -14,5 +17,5 @@ What's new:
 - Note• Some features are removed will be added in next update.
 
 Thanks for using JMWhatsApp",
-  "downloadLink": "https://www.mediafire.com/file/k9kz3zkmqgnqw1w/JusticeTech_Manager.apk/file"
+  "downloadLink": "https://youtu.be/-ZypZuip-4c?si=cpQIndfzanyg1dHr"
   }
