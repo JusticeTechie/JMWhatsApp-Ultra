@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "title": "JMWhatsApp ",
+  "message": "New update soon",
+  "style": "inbox",
+"lines": ["Hello 1", "Hello 2", "Hello 3"],
+  "sound": true,
+  "vibrate": true,
+  "expires": "2025-05-01T12:00:00",
+  "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
+  "actions": [
+    {
+      "title": "Telegram",
+      "url": "https://t.me/jmwhatsapp"
+    },
+    {
+      "title": "Ignore"
+    }
+  ]
+}
